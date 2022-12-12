@@ -84,6 +84,8 @@ public class App {
        System.out.println("Total Pembelian per orang                                            ="+pembayaranperorang);  
        
        System.out.println("--------------Terima Kasih Atas Kunjungan Anda-----------------");
-
+    
+        
+        
     }    
 }
